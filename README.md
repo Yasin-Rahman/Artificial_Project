@@ -18,5 +18,9 @@ Run main.py. It has option to run 2015,2016,2017 or all three of them together f
 
 Each of the can be run separately by moving the code out of the function and running it.
 
+About Online Demo:
+we have added basic online functionality that works on Appache development server in our home pc which came wit XAMPP installation.. 
+it only works by running info.php . After running it will show 2017 happiness reports predictions. It is a very early stage of online implementation just for testing purpose.
+
 
 
