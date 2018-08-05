@@ -1,4 +1,6 @@
-# Artificial_Project
+# Artificial_Project(NEW)
+
+Repor for the NEw AI project.
 
 Artificial Intelligence Project made to determine a country's happiness score based on the country's other attributes like GDP and various other attributes.
 
